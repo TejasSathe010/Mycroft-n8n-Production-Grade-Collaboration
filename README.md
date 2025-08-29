@@ -22,9 +22,8 @@ n8n is a flexible workflow automation tool that supports both **n8n Cloud** (hos
 
 ##  Pricing Philosophy
 
-- All **Cloud plans** now include **unlimited workflows, steps, and users**. You pay **only for executions**, not complexity. :contentReference[oaicite:7]{index=7}  
-- **Enterprise pricing** is execution-based (not workflow-based), offering budget predictability at scale. :contentReference[oaicite:8]{index=8}
-
+- All **Cloud plans** now include **unlimited workflows, steps, and users**. You pay **only for executions**, not complexity.
+- **Enterprise pricing** is execution-based (not workflow-based), offering budget predictability at scale.
 ---
 
 ##  Collaboration Features by Plan

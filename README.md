@@ -30,7 +30,7 @@ n8n is a flexible workflow automation tool that supports both **n8n Cloud** (hos
 
 | Plan                  | Projects & Sharing         | Git & Environments           | SSO / LDAP              | Credential Sharing             | Usage Insights / Metrics         |
 |-----------------------|----------------------------|------------------------------|--------------------------|-------------------------------|----------------------------------|
-| Community Edition     | No                          | No                           | No                       | No                            | Limited (24-hour history) :contentReference[oaicite:9]{index=9} |
+| Community Edition     | No                          | No                           | No                       | No                            | Limited (24-hour history)  |
 | Starter               | 1 project                   | No                           | No                       | Limited                       | 1-day history                    |
 | Pro                   | 3 projects                  | No                           | No                       | Yes                           | 7-day history, execution search |
 | Business (Self-Host)  | 6 projects                  | Yes (dev/staging/prod)       | Yes (SSO/LDAP)           | Yes                           | 30-day insights                 |

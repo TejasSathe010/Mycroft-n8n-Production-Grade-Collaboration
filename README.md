@@ -1,4 +1,4 @@
-# Mycroft-n8n-Production-Grade-Collaboration
+# Mycroft × n8n — Production‑Grade Collaboration README
 
 ## n8n Plans & Collaboration Guide
 
@@ -82,9 +82,6 @@ n8n offers an execution-centric, scalable pricing model that encourages experime
 - Go enterprise-grade—**Enterprise**
 
 ---
-
-
-# Mycroft × n8n — Production‑Grade Collaboration README
 
 > Using AI to invest in AI — safely, collaboratively, and at scale.
 

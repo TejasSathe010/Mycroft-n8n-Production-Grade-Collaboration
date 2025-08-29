@@ -12,11 +12,11 @@ n8n is a flexible workflow automation tool that supports both **n8n Cloud** (hos
 
 | Plan Type                 | Pricing (Cloud)       | Collaboration Features                                         | Best Use Cases                                            |
 |---------------------------|------------------------|----------------------------------------------------------------|-----------------------------------------------------------|
-| **Community Edition**     | Free (self-hosted)     | Basic use—no projects, no credential sharing, single user. :contentReference[oaicite:1]{index=1} | Solo devs or one-off automations without team needs.      |
-| **Starter (Cloud)**       | US $24/mo (annually US $20) for 2.5K executions/month. :contentReference[oaicite:2]{index=2} | 1 shared project, unlimited users, 5 concurrent runs, forum support. :contentReference[oaicite:3]{index=3} | Teams trialing MIDI-scale automations with DevOps buffer. |
-| **Pro (Cloud)**           | Contact Sales          | 3 shared projects, 20 concurrent runs, 7-day history, admin roles, search, global variables. :contentReference[oaicite:4]{index=4} | Small teams scaling features and collaboration.           |
-| **Business (Self-Hosted)**| Contact Sales          | Git version control, environments (dev/staging/prod), SSO, LDAP, 6 projects, insights 30 days. :contentReference[oaicite:5]{index=5} | Growing orgs needing structured workflows and security.   |
-| **Enterprise**            | Contact Sales (cloud or self-hosted) | Unlimited projects, 200+ concurrent runs, 365-day history, external secrets, log streaming, API key scoping, SLA support. :contentReference[oaicite:6]{index=6} | Regulated orgs, financial tech, high-compliance teams.    |
+| **Community Edition**     | Free (self-hosted)     | Basic use—no projects, no credential sharing, single user.  | Solo devs or one-off automations without team needs.      |
+| **Starter (Cloud)**       | US $24/mo (annually US $20) for 2.5K executions/month. | 1 shared project, unlimited users, 5 concurrent runs, forum support.  | Teams trialing MIDI-scale automations with DevOps buffer. |
+| **Pro (Cloud)**           | Contact Sales          | 3 shared projects, 20 concurrent runs, 7-day history, admin roles, search, global variables. | Small teams scaling features and collaboration.           |
+| **Business (Self-Hosted)**| Contact Sales          | Git version control, environments (dev/staging/prod), SSO, LDAP, 6 projects, insights 30 days. | Growing orgs needing structured workflows and security.   |
+| **Enterprise**            | Contact Sales (cloud or self-hosted) | Unlimited projects, 200+ concurrent runs, 365-day history, external secrets, log streaming, API key scoping, SLA support. | Regulated orgs, financial tech, high-compliance teams.    |
 
 ---
 
